@@ -1,12 +1,5 @@
 {
-  "buildCommand": "next build",
-  "outputDirectory": ".next",
   "framework": "nextjs",
-  "functions": {
-    "src/**/*.ts": {
-      "memory": 1024,
-      "maxDuration": 30
-    }
-  },
-  "ignoreCommand": "echo 'skipping'"
+  "buildCommand": "next build",
+  "outputDirectory": ".next"
 }
