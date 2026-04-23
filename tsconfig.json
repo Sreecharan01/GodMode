@@ -28,6 +28,7 @@
     "HF",
     "api",
     "research",
+    "functions",
     "dataset.ts",
     "ChatInput.tsx",
     "SettingsModal.tsx"
